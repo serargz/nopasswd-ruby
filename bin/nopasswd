@@ -1,0 +1,5 @@
+#! /usr/bin/env ruby
+
+require 'nopasswd'
+
+NoPasswd::CLI.start(ARGV)
